@@ -65,10 +65,12 @@ header {
 }
 
 .logo {
+    border-radius: 100%;
     display: flex;
     align-items: center;
     font-weight: bold;
     font-size: 1.2rem;
+    gap: 10px;
 }
 
 .logo i {

@@ -29,6 +29,12 @@ h3 {
     color: black;
 }
 
+label {
+    margin: 0;
+    color: black;
+    display: block;
+}
+
 button {
     background-color: #272B3B;
     color: white;
