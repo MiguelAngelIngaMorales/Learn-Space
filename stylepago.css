@@ -53,7 +53,7 @@ form .row {
 }
 .column .title{
     font-size: 20px;
-    color: #333;
+    color: #282b3c;
     text-transform: uppercase;
     margin-bottom: 5px;
 }
@@ -102,5 +102,5 @@ form .btn{
     transition: .5s;
 }
  form .btn:hover{
-    background: #6a5acd;
+    background: #39406f;
  }
